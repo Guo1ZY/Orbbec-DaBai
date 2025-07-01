@@ -1,10 +1,13 @@
 /**
- * @file main.cpp
- * @brief Orbbec DaBai相机库主程序
- * @author Your Name
+ * @file OrbbecDabai.cpp
+ * @author Guo1ZY 132872017@qq.com
+ * @brief Orbbec DaBai相机实现
+ * @version 0.1
  * @date 2025-01-15
+ *
+ * @copyright Copyright (c) 2025
+ *
  */
-
 #include "OrbbecDabai.hpp"
 #include <opencv2/opencv.hpp>
 #include <iostream>

@@ -1,6 +1,6 @@
 /**
  * @file OrbbecDabai.cpp
- * @author Your Name
+ * @author Guo1ZY 132872017@qq.com
  * @brief Orbbec DaBai相机库实现
  * @version 0.1
  * @date 2025-01-15
